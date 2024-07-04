@@ -24,7 +24,7 @@ app.set("view engine", "ejs");
 
 app.use(
   session({
-    secret: "Naman Arnav",
+    secret: "Namanarnav",
     resave: false,
     saveUninitialized: false,
   })
